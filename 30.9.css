@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0
+}
+.wrapper{
+    width: 70%;
+    margin: auto;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.button{
+    background-color: rgb(168, 45, 73);";    
+}
+a{
+    text-decoration: none;
+}
+.nav-menu{list-style: none;
+}
+.nav-menu li{
+    float: left;
+    padding: 17px;
+}
+.nav-menu li a{
+    color: rgb(168, 45, 73)
+}    
+.button a{
+    color: white  !important;
+}
+.btext{
+    background-image:url(http://demo.tutsflow.com/foodera/images/bg/3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.text{
+    padding: 260px 0;
+    margin-left: 300px
+}
+.Order{
+    background-color: rgb(168, 45, 73);
+    border: 10px solid rgb(168, 45, 73);
+    font-size: 20px;
+    color: white
+}
+.Learn{
+    font-size: 20px;
+    background-color: whitesmoke;
+    border:10px solid whitesmoke;
+    color: black
+}
+header{position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+}
+.text1{
+    font-size: 50px
+}
+.container1{
+    display: grid;
+    grid-template-columns: auto auto auto auto
+}
+.num4s{
+    background-color: rgb(168, 45, 73);
+    text-align: center;
+    padding: 70px 0
+}
+.p6{
+    font-size: 20px
+}
+.h16{
+    font-size: 30px
+}
+
+
